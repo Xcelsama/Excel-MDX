@@ -4,7 +4,7 @@
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
  * @project_name : Excel-MDX
- * @author : SamPandey001 <https://github.com/Xcelsama>
+ * @author : Xcelsama <https://github.com/Xcelsama>
  * @description : Excel-MDX A Multi-functional whatsapp bot.
  * @version 0.0.6
  **/
@@ -119,7 +119,7 @@ cmd({
 *⭐ Total Stars:* ${data.stargazers_count} stars
 *🍽️ Forks:* ${data.forks_count} forks
 *🍁 Repo:* https://github.com/Xcelsama/EXCEL-MDX..-
-*Deploy Your Own:*-`
+*Deploy Your Own:*https://github.com/Xcelsama/EXCEL-MDX/deploy-`
         let buttonMessaged = {
             image: { url: await botpic() },
             caption: cap,

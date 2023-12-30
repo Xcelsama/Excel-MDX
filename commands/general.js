@@ -118,9 +118,8 @@ cmd({
         let cap = `Hey ${citel.pushName}\n
 *⭐ Total Stars:* ${data.stargazers_count} stars
 *🍽️ Forks:* ${data.forks_count} forks
-*🍁 Repo:* https://github.com/Xcelsama/Excel-MD-V2..-
-*Deploy Your Own:*-
-x.herokuapp.com`
+*🍁 Repo:* https://github.com/Xcelsama/EXCEL-MDX..-
+*Deploy Your Own:*-`
         let buttonMessaged = {
             image: { url: await botpic() },
             caption: cap,
@@ -200,7 +199,7 @@ async(Void, citel,text,{isCreator}) => {
 
 if(!isCreator) return citel.reply(tlang().owner);
 let str="*All available themes in Secktor*"
-str+=`1. SECKTOR\n2. ADAM\n3. AYANOKOJI\n4. EDITH\n5. FRIDAY\n6. GENOS\n7. GIDEON\n8. GOKU\n9. LUFFY\n10. NARUTO\n11. NEZUKO\n12. PARKER\n13. ZEROTWO\n14. Eren Jeager(Coming Soon)\n\n these are the themes of Secktor Userbot.\_Reply ${prefix}setvar THEME:ZEROTWO`
+str+=`1. SECKTOR\n2. ADAM\n3. AYANOKOJI\n4. EDITH\n5. FRIDAY\n6. GENOS\n7. GIDEON\n8. GOKU\n9. LUFFY\n10. NARUTO\n11. NEZUKO\n12. PARKER\n13. ZEROTWO\n14. CELL\n15. Eren Jeager(Coming Soon)\n\n these are the themes of S Excel.-MDX\_Reply ${prefix}setvar THEME:ZEROTWO`
 return citel.reply(str)
     
 }

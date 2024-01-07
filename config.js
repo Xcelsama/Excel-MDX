@@ -1,82 +1,58 @@
-import { watchFile, unwatchFile } from 'fs'
-import chalk from 'chalk'
-import { fileURLToPath } from 'url'
-import fs from 'fs'
-import fetch from 'node-fetch'
-import axios from 'axios'
+const fs = require('fs-extra')
+if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/config.env' })
 
 
-global.owner = [
-  ['2347045035241
-', 'Excel', true],
-] //Number of owners
-
-//global.pairingNumber = "" //put your bot number here
-
-global.mods = ['233533763772','923184070915'] 
-global.prems = ['923184070915', '233533763772', '918360234087']
-global.allowed = ['923184070915', '233533763772', '918360234087']
-global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
-global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
-global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
-global.keysxteam = keysxteammm[Math.floor(keysxteammm.length * Math.random())]
-global.keysneoxrrr = ['5VC9rvNx', 'cfALv5']
-global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
-global.lolkeysapi = ['GataDios']
-global.beta = 'mLxstUwm'
-
-global.APIs = { // API Prefix
-  // name: 'https://website'
-  xteam: 'https://api.xteam.xyz', 
-  dzx: 'https://api.dhamzxploit.my.id',
-  lol: 'https://api.lolhuman.xyz',
-  violetics: 'https://violetics.pw',
-  neoxr: 'https://api.neoxr.my.id',
-  zenzapis: 'https://zenzapis.xyz',
-  akuari: 'https://api.akuari.my.id',
-  akuari2: 'https://apimu.my.id',
-  nrtm: 'https://fg-nrtm.ddns.net',
-  bg: 'http://bochil.ddns.net',
-  fgmods: 'https://api-fgmods.ddns.net'
-}
-global.APIKeys = { // APIKey Here
-  // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'd90a9e986e18778b',
-  'https://api.lolhuman.xyz': '85faf717d0545d14074659ad',
-  'https://api.neoxr.my.id': `${keysneoxr}`,	
-  'https://violetics.pw': 'beta',
-  'https://zenzapis.xyz': `${keysxxx}`, 
-  'https://api-fgmods.ddns.net': 'fg-dylux'
-}
-
-// Sticker WM
-global.botname = 'XLICON-V2'
-global.premium = 'true'
-global.packname = 'XLICON TEAM' 
-global.author = '@XLICON-V2' 
-global.menuvid = 'https://telegra.ph/file/325630f66abc968eda8e2.mp4'
-global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e\n' 
-global.dygp = 'https://chat.whatsapp.com/BfH0KLkICn2BjmGFMRcGMW'
-global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
-global.fgyt = 'https://youtube.com/@s4salmanyt'
-global.fgpyp = 'https://youtube.com/@s4salmanyt'
-global.fglog = 'XLICON.jpg' 
-global.thumb = fs.readFileSync('./XLICON.jpg')
+//═══════[Required Variables]════════\\
+global.owner = process.env.OWNER_NUMBER.split(",")
+global.mongodb = process.env.MONGODB_URI || "mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority"
+global.port= process.env.PORT || 5000
+global.email = 'Chigerunsitem@gmail.com'
+global.github = 'https://github.com/Xcelsama/Excel-MD-V2'
+global.location = 'Nigeria Ng'
+global.gurl = 'https://instagram.com/' // add your username
+global.sudo = process.env.SUDO || '2347045035241'
+global.devs = '2347045035241';
+global.website = 'https://github.com/Xcelsama/Excel-MD-V2' //wa.me/+91000000000000
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://i.imgur.com/oNckzkC.jpg'
+module.exports = {
+  botname:   process.env.BOT_NAME === undefined ? ' 𝗘𝘅𝗰𝗲𝗹 𝐁𝐨𝐭𝐭𝐨' : process.env.BOT_NAME,
+  ownername: process.env.OWNER_NAME === undefined ? '𝗘𝘅𝗰𝗲𝗹' : process.env.OWNER_NAME,
+  sessionName:  process.env.SESSION_ID === undefined ? false : process.env.SESSION_ID,
+  author:  process.env.PACK_INFO.split(";")[0] === undefined ? 'Excel' : process.env.PACK_INFO.split(";")[0],
+  auto_read_status :  process.env.AUTO_READ_STATUS === undefined ? false : process.env.AUTO_READ_STATUS,
+  packname:  process.env.PACK_INFO.split(";")[1] === undefined ? 'Excel-Md' : process.env.PACK_INFO.split(";")[1],
+  autoreaction:  process.env.AUTO_REACTION  === undefined ? false : process.env.AUTO_REACTION ,
+  antibadword :  process.env.ANTI_BAD_WORD === undefined ? 'nbwoed' : process.env.ANTI_BAD_WORD,
+  alwaysonline:  process.env.ALWAYS_ONLINE === undefined ? false : process.env.ALWAYS_ONLINE,
+  antifake : process.env.FAKE_COUNTRY_CODE === undefined ? '971' : process.env.FAKE_COUNTRY_CODE,
+  readmessage:  process.env.READ_MESSAGE === undefined ? false : process.env.READ_MESSAGE,
+  auto_status_saver: process.env.AUTO_STATUS_SAVER === undefined ? false : process.env.AUTO_STATUS_SAVER,
+  HANDLERS:  process.env.PREFIX === undefined ? ['.'] : process.env.PREFIX,
+  warncount : process.env.WARN_COUNT === undefined ? 3 : process.env.WARN_COUNT,
+  disablepm:  process.env.DISABLE_PM === undefined ? false : process.env.DISABLE_PM,
+  levelupmessage:  process.env.LEVEL_UP_MESSAGE === undefined ? false : process.env.LEVEL_UP_MESSAGE,
+  antilink:  process.env.ANTILINK_VALUES === undefined ? 'chat.whatsapp.com' : process.env.ANTILINK_VALUES,
+  antilinkaction: process.env.ANTILINK_ACTION === undefined ? 'remove' : process.env.ANTILINK_ACTION,
+  BRANCH: 'main', 
+  ALIVE_MESSAGE:  process.env.ALIVE_MESSAGE === undefined ? '' : process.env.ALIVE_MESSAGE,
+  autobio:  process.env.AUTO_BIO === undefined ? false : process.env.AUTO_BIO,
+  OPENAI_API_KEY:  process.env.OPENAI_API_KEY === undefined ? false : process.env.OPENAI_API_KEY,
+  heroku:  process.env.heroku === undefined ? false : process.env.heroku,
+  HEROKU: {
+    HEROKU: process.env.HEROKU ||false,
+    API_KEY: process.env.HEROKU_API_KEY === undefined ? '1abfce1e-1bee-4334-9f6c-f4c1cb1cafab' : process.env.HEROKU_API_KEY,
+    APP_NAME: process.env.HEROKU_APP_NAME === undefined ? 'zeropgg' : process.env.HEROKU_APP_NAME
+},
+  VERSION: process.env.VERSION === undefined ? 'v.0.0.3' : process.env.VERSION,
+  LANG: process.env.THEME|| 'FRIDAY',
+  WORKTYPE: process.env.WORKTYPE === undefined ? 'public' : process.env.WORKTYPE
+};
 
 
-global.wait = '*🕣 _Excel-MDX IS LOADIN..._*\n*▰▰▰▱▱▱▱▱⭐*'
-global.rwait = '⌛'
-global.dmoji = '🤭'
-global.done = '✔️'
-global.error = '❌' 
-global.xmoji = '🔥' 
-
-global.multiplier = 69 
-global.maxwarn = '3' // máxima advertencias
-
-let file = fileURLToPath(import.meta.url)
-watchFile(file, () => {
-  unwatchFile(file)
-  console.log(chalk.redBright("Update 'config.js'"))
-  import(`${file}?update=${Date.now()}`)
+let file = require.resolve(__filename)
+fs.watchFile(file, () => {
+	fs.unwatchFile(file)
+	console.log(`Update'${__filename}'`)
+    delete require.cache[file]
+	require(file)
 })

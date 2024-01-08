@@ -1,7 +1,7 @@
 {
   "name": "EXCEL MDX",
   "description": "A Whatsapp md made by Excel",
-  "logo": "https://i.imgur.com/oNckzkC.jpg",
+  "logo": "https://i.imgur.com/ANtDEX9.png",
   "keywords": ["nodejs", "bot", "whatsapp bot", "Excel Md v2","theme bot","multi device","baileys","Excel"],
   "success_url": "/",
   "stack": "container",

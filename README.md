@@ -106,4 +106,4 @@ If You don't have a account in Heroku. Create a account.
 <a href='https://dashboard.heroku.com/new?template=https://github.com/Xcelsama/Excel-MDX' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 ********************************************
-Thanks f9r all your support💪
+Thanks for all your support💪

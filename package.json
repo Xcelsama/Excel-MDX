@@ -1,14 +1,14 @@
 {
    "name": "Excel-mdx",
    "version": "1.2.7",
-   "description": "Multi device Functional bot by Excel.",
+   "description": "Multi device whatsapp bot by SuhailTechInfo.",
    "main": "lib/client.js",
    "type": "commonjs",
    "scripts": {
              "start": "pm2 start lib/client.js --deep-monitoring --attach --name Suhail",
              "stop": "pm2 stop Suhail"
    },
-   "author": "Xcelsama",
+   "author": "SuhailTechInfo",
  
    "dependencies": { 
              "@adiwajshing/keyed-db": "^0.2.4",
@@ -67,11 +67,10 @@
    },
    "repository": {
              "type": "git",
-             "url":
-"git+https://github.com/Xcelsama/Excel-MDX.git"
+             "url": "git+https://github.com/Xcelsama/EXCEL-MDX.git"
    },
    "bugs": {
-             "url": "https://github.com/Xcelsama/Excel-MDX/issues"
+             "url": "https://github.com/Xcelsama/EXCEL-MDX/issues"
    },
-   "homepage": "https://github.com/Xcelsama/Excel-MDX#readme"
+   "homepage": "https://github.com/Xcelsama/EXCEL-MDX#readme"
 }

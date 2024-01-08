@@ -1,14 +1,14 @@
 {
-  "name": "suhail-md",
-  "description": "I am Suhail-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/c/SuhailTechInfo",
+  "name": "Excel-MDX",
+  "description": "I am Excel-MDX chatbot made to make WhatsApp fun",
   "logo": "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg",
-  "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
-  "success_url": "/suhail/",
+  "keywords": ["whatsappbot", "Excel-mdx", "Excel Mdx bot", "Excel-Mdx", "ExcelMdxWhatsaooBot", "Excelmdx","Excel-mdx","Excel-mdx Whatsapp Bot","multi device"],
+  "success_url": "/Excel-Mdx/",
 
   "env": {
     "OWNER_NAME": {
       "description": "Name of Bot Owner",    
-      "value": "Suhail Tech Info",
+      "value": "Excel ",
       "required" :true
     },   
     "HEROKU_API_KEY": {
@@ -52,7 +52,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923184474176"
+      "value": "2347045035241"
     },
     "SESSION_ID": {
       "description": "Please put your SESSION_ID here,if you don't have visit\nhttps://replit.com/@SuhailTechInfo/Secktor-Bot",
@@ -76,7 +76,7 @@
     },
     "MONGODB_URI": {
       "description": "Put your Mongodb key. Not neccesory, but some cmds are not works.",
-      "value": "",
+      "value": "mongodb://usrdhz7ejxwayzvw69qm:fRuJImqP1BOZyGk9fD6@bupt7kruqljyivftjl4i-mongodb.services.clever-cloud.com:2791/bupt7kruqljyivftjl4i",
       "required" :false
     },
 
@@ -86,12 +86,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Suhail Md",
+      "value": "  Excel-mdx",
       "required": false 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "wahtsapp bot",
+      "value": "Excel-mdx bot",
       "required": false 
     }
   },

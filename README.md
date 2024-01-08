@@ -1,10 +1,20 @@
-</h1> 
-<p align="center">To learn how to get session id tap link at page end..
- 
+
+## `XCELL-MD`
+<div align="left">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=60&pause=1000&color=fffx00&center=true&width=900&height=100&lines=Hey (*´∇`)ﾉ I'm EXCEL-MDX;Multi+Device+Whatsapp+Bot;Developed+By+EXCEL+AMADI" alt="Typing SVG" /></a>
+  
 
 
- It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
-<a href='https://chat.whatsapp.com/EjCevQuz0IBIlfUUYLPEB4' target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/OFFICIAL-GC-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
+
+
+</h2> 
+<p align="CENTER">𝐓𝐎 𝐋𝐄𝐀𝐑𝐍 𝐇𝐎𝐖 𝐓𝐎 𝐆𝐄𝐓
+𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃
+<p align="CENTER">⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇
+
+<p align="CENTER">
+  <a href="https://github.com/Xcelsama/Excel_Tech_Info/blob/main/To%20get%20session%20id"><img title="Learn" src="https://img.shields.io/badge/learn-How-cyan.svg?style=for-the-badge&logo=xcode" /></a>
+</p>
 <p align="center">
   <a href="https://chat.whatsapp.com/ERYl3BYeDgj0xlZUssQI9p">
     <img alt="Excel-MD V2" height="300" src="https://i.imgur.com/faNAZch.png">

@@ -102,13 +102,10 @@
      "required": false 
   }
 },
-
-"formation": {
-      "web": {
-          "quantity": 1,
-          "size": "standard-2x"
-      }
-  }
-}
+    { 
+       "plan": "heroku-postgresql" 
+     } 
+   ] 
+ }
 
 

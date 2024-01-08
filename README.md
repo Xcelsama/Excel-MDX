@@ -20,27 +20,19 @@
     <img alt="Excel-MD V2" height="300" src="https://i.imgur.com/faNAZch.png">
   </a>
 </p>
-   <p align="center">
+      <p align="center">
   <a href="https://wa.me//+2347045035241" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a aria-label="Excel_Md is free to use" href="https://chat.whatsapp.com/ERYl3BYeDgj0xlZUssQI9p" target="_blank">
-    <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
+  <a aria-label="Excel_Md is free to use" href="https://chat.whatsapp.com/ERYl3BYeDgj0xlZUssQI9p" "target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/OFFICIAL-GC-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
+
+   
   </a>
-   <a aria-label="Excel-MdV2 is free to use" href="https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X" target="_blank">
-   </p>
+   <a aria-label="Excel-MdV2 is free to use" href="https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X" target="_blank"> </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{xcelsama}/count.svg" alt="xcelsama:: Visitor's Count" /></p>
 
-><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=1000&color=DBEDF7&center=true&random=false&width=435&lines=EXCEL-MD-V2;MUTLI+FUNCTIONAL;WHATSAPP+BOT;MADE+BY;EXCEL+ Amadi." alt="Typing SVG" /></a>
-
-<p align="center">ℹ️ 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎
-  <a
- href="https://wa.me//+2347045035241"></a>
-</p>
 <p align="center">
-  <img title="Whatsapp-Bot-Javascript" src="https://img.shields.io/badge/Whatsapp-363303?style=for-the-badge&logo=whatsapp&logoColor=c6c631"></img>
-<p align="center">
-
+<a href='https://chat.whatsapp.com/EjCevQuz0IBIlfUUYLPEB4' 
   <a aria-label="Join our chats" href="https://chat.whatsapp.com/ERYl3BYeDgj0xlZUssQI9p" target="_blank">
 
    <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -51,7 +43,10 @@
 
    <img alt="whatsapp" src="https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
+  <a
+ href="https://wa.me//+2347045035241"></a>
 </p>
+
 
 
 

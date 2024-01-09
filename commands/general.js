@@ -114,7 +114,7 @@ cmd({
         filename: __filename,
     },
     async(Void, citel) => 
-        let { data } = await axios.get('https://api.github.com/repos/Xcelsama/EXCEL-MDX')
+        let { data } = await axios.get('https://github.com/Xcelsama/EXCEL-MDX')
         let cap = `Hey ${citel.pushName}\n
 *⭐ Total Stars:* ${data.stargazers_count} stars
 *🍽️ Forks:* ${data.forks_count} forks

@@ -1,7 +1,7 @@
 
 {
     "__JSON__": true,
-    "AUTHOR": "CitelVoid",
+    "AUTHOR": "Excel",
     "LANGUAGE": "English",
     "LANGCODE": "en",
     "STRINGS": {
@@ -35,7 +35,7 @@
             "mention": " Please mention any user Darling",
             "title": "𝐆𝐢𝐝𝐞𝐨𝐧",
             "footer": "𝐆𝐢𝐝𝐞𝐨𝐧-𝐁𝐨𝐭𝐭𝐨",
-            "by": "Made by: *CitelVoid*",
+            "by": "Made by: *Excel*",
             "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
             "success": "Done ✓",
             "dot": "Hii Captain, Did you mean *-help?*",

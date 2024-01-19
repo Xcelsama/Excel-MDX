@@ -1,5 +1,5 @@
 {
-   "name": "Excel.g-mdx",
+   "name": "Excel-mdx",
    "version": "1.2.7",
    "description": "Multi device whatsapp bot by Excel.",
    "main": "lib/client.js",

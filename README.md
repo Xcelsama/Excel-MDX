@@ -1,5 +1,5 @@
 
-## `EXCEL-MD`
+## `EXCEL-MDX`
 <div align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=60&pause=1000&color=fffx00&center=true&width=900&height=100&lines=Hey (*´∇`)ﾉ I'm EXCEL-MDX;Multi+Device+Whatsapp+Bot;Developed+By+EXCEL+AMADI" alt="Typing SVG" /></a>
   
@@ -28,7 +28,8 @@
 
    
   </a>
-   <a aria-label="Excel-MdV2 is free to use" href="https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X" target="_blank"> </p>
+   <a aria-label="Excel-MdV2 is free to use" href="https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X" target="_blank">
+ </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{xcelsama}/count.svg" alt="xcelsama:: Visitor's Count" /></p>
 
 <p align="center">
@@ -76,11 +77,13 @@ mongodb://usrdhz7ejxwayzvw69qm:fRuJImqP1BOZyGk9fD6@bupt7kruqljyivftjl4i-mongodb.
 
 ＊DEPLOYMENT METHODS
 
-❍ᗪᗴᑭᒪOY  ᖴᖇᗴᗴ ᗯITᕼ ᑕOᗪᗴՏᑭᗩᑕᗴ
+❍ᗪᗴᑭᒪOY  ᖴᖇᗴᗴ ᗯITᕼ ᑕOᗪᗴՏᑭᗩᑕᗴ
+
 
 - If You don't have a account in Codespace. Create a account.
     <br>
-<a href='https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fcodespaces' target="_blank"><img alt='Codespaces' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
+
+<a href='https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fcodespaces' target="_blank"><img alt='Codespaces' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
 Now Deploy
     <br>
 <a href='https://cautious-goldfish-4j79j464wgxqhwpw.github.dev/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
@@ -92,7 +95,8 @@ Now Deploy
 - If You don't have a account in replit. Create a account.
     <br>
 <a href='https://replit.com/signup' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=Replit' width="96.35" height="28"/></a></p>
-Now Deploy
+
+Now Deploy
     <br>
 <a href='https://replit.com/@HopeAmadi/EXCEL-MD-V2' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=Replit' width="96.35" height="28"/></a></p>'
 ❍ᗪᗴᑭᒪOY Oᑎ ᕼᗴᖇOKᑌ

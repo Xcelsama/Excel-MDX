@@ -41,7 +41,8 @@
   </a>
 
 <a aria-label="Join our chats" href="https://wa.me/2347045035241?text=Hi!! Excel, I need Your Help" target="_blank">
-
+ <img alt="Excel-MD V2" height="300" src="https://telegra.ph/file/613e2c8b73b89072aaf0e.jpg">
+  </a>
    <img alt="whatsapp" src="https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
   <a

@@ -65,7 +65,8 @@ mongodb://usrdhz7ejxwayzvw69qm:fRuJImqP1BOZyGk9fD6@bupt7kruqljyivftjl4i-mongodb.
 
     
 ➤FORK THE REPOSITORY (Repo) 
-
+    <br>
+<a href="https://github.com/Xcelsama/EXCEL-MDX/fork"><img title="XCELL-MD" src="https://img.shields.io/badge/FORK XCELL-MD?color=black&style=for-the-badge&logo=stackshare"></a>
 
 
 ➤  GET SESSION  ID FOR EXCEL-MDX

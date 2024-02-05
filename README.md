@@ -73,8 +73,9 @@ mongodb://usrdhz7ejxwayzvw69qm:fRuJImqP1BOZyGk9fD6@bupt7kruqljyivftjl4i-mongodb.
   
     pair May not work...under development 
 <a href='https://replit.com/@HopeAmadi/Excel-mdxpaircode' target="_blank"><img alt='Pair code' src='https://img.shields.io/badge/Pair-code-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
-.
-<a href="https://r.mtdv.me/XGENQR"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="70" /></a>
+
+<a href="https://r.mtdv.me/EXCEL-MDX"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="70" /></a>
+
 <a href='https://replit.com/@HopeAmadi/EXCEL-MD-QR-SCAN-1?v=1/fork' target="_blank"><img alt='SCAN QR-1' src='https://img.shields.io/badge/Scan_qr-1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
 

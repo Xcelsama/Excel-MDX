@@ -76,11 +76,11 @@
    }, 
    "MONGODB_URI": { 
      "description": "A secret String for Mongodb Connection.(Required),change for better experience", 
-     "value": "mongodb+srv://danielpeter:beka10beka10@cluster0.ef032ix.mongodb.net/?retryWrites=true&w=majority" 
+     "value": "mongodb+srv://astromedia0010:beka10beka10@cluster0.pxc8ulo.mongodb.net" 
    }, 
      "THEME": { 
      "description": "Put the theme name you want to use. Avilable themes are SECKTOR,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..", 
-      "value": "FRIDAY" 
+      "value": "EXCEL" 
    }, 
      "WORKTYPE": { 
    "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.", 

@@ -41,10 +41,7 @@
 
   </a>
 
-<a aria-label="Join our chats" href="https://wa.me/2347045035241?text=Hi!! Excel, I need Your Help" target="_blank">
- <img alt="Excel-MD V2" height="300" src="https://telegra.ph/file/613e2c8b73b89072aaf0e.jpg">
-  </a>
-   
+
 
  </a>
    <a aria-label="Excel-MdV2 is free to use" href="https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X" target="_blank">
